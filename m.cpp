@@ -84,7 +84,7 @@ int main(){
 
 		}
 		else if(command == "quit") break;
-		//extra credit.. using vector
+		//Method 2 .. using vector
 		else if(command == "vquery"){
 			cin >> mm; //allowed mismatches
 			cin >> q; //query
